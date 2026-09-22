@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ink: 0.26 0.018 165;
+  --cream: 0.945 0.017 88;
+  --paper: 0.973 0.012 89;
+  --terra: 0.61 0.13 52;
+  --sage: 0.52 0.032 165;
+  --gold: 0.72 0.09 80;
+}
+
+@layer base {
+  body {
+    @apply bg-cream font-sans text-ink antialiased;
+  }
+}

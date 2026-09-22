@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+npm-debug.log*
+
+# Exploration & verification screenshots (kept locally)
+/*.png
+/verify/
+
+# Redundant PNG originals of generated residence photos (JPEGs are used)
+/public/images/*.png
