@@ -14,3 +14,5 @@ npm-debug.log*
 
 # Vercel CLI temp scripts
 /.vercel-tmp/
+.vercel
+.env*.local

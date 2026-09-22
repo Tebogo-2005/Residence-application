@@ -1,0 +1,5 @@
+# Local-only files and tooling — excluded from the Vercel upload
+/.vercel-tmp
+/verify
+/*.png
+/public/images/*.png
