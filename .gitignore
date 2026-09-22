@@ -11,3 +11,6 @@ npm-debug.log*
 
 # Redundant PNG originals of generated residence photos (JPEGs are used)
 /public/images/*.png
+
+# Vercel CLI temp scripts
+/.vercel-tmp/
